@@ -7,7 +7,7 @@ const quizData = [
         d: '110',
         correct: 'c'
     },{
-        question: "What is best progrming Language ?",
+        question: "What is the best Programming Language ?",
         a: "Java",
         b: "Python",
         c: "C",
